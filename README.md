@@ -30,7 +30,7 @@ Considere que as turmas sempre vão andar com velocidades diferentes.
 Considere que o número de turmas nas viagens pode variar, mas o número de
 parques é fixo. </p>
 
-<p> 3 - <img src = "/src/jantar.png"> <\p>
+<p> 3 - <img src = "/src/jantar.png">
 
 <h4 align = "center"> 
     🚧  React Select 🚀 Em construção...  🚧
